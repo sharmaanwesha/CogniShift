@@ -40,7 +40,7 @@ This project demonstrates strong **real-world problem solving**, **AI-driven thi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **JavaScript** (Core logic)
 * **HTML & CSS** (UI design)
