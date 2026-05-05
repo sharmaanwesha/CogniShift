@@ -1,4 +1,4 @@
-# 🧠 CogniShift – AI-Powered Cognitive-Friendly Browser Extension
+# CogniShift – AI-Powered Cognitive-Friendly Browser Extension
 
 ##  Overview
 
@@ -111,3 +111,4 @@ CogniShift helps:
 ##  Author
 
 **Anwesha Sharma**
+ (GROUP_PROJECT)
